@@ -2,3 +2,5 @@
 numpy
 scipy
 arviz
+tqdm
+more-itertools
