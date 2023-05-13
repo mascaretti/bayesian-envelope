@@ -19,6 +19,7 @@ Features
 --------
 
 Python implementation of the work of the model presented in
->  Kshitij Khare. Subhadip Pal. Zhihua Su. "A Bayesian approach for envelope models." Ann. Statist. 45 (1) 196 - 222, February 2017. https://doi.org/10.1214/16-AOS1449
+
+Kshitij Khare. Subhadip Pal. Zhihua Su. "A Bayesian approach for envelope models." Ann. Statist. 45 (1) 196 - 222, February 2017. https://doi.org/10.1214/16-AOS1449
 
 The only difference is the use of a proper prior for the mean.
