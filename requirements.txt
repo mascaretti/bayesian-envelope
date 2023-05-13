@@ -4,3 +4,5 @@ scipy
 arviz
 tqdm
 more-itertools
+zarr
+rpy2
